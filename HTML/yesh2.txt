@@ -1,0 +1,50 @@
+</head>
+<body bgcolor="pink">
+
+<table>
+<tr> 
+<th> S.NO. </th>
+<th> ID. </th>
+<th> NAME. </th>
+</th>
+
+<tr> 
+<th> 1. </th>
+<th> 2200031703/th>
+<th> YASHWANTH ADITYA  </th>
+</th>
+
+<tr> 
+<th> 2. </th>
+<th> 2200031917/th>
+<th> ROOPESH  </th>
+</th>
+</table>
+
+<tr> 
+<th> 2. </th>
+<th> 2200031915th>
+<th> KUSHAL </th>
+</th>
+</table>
+
+
+
+<ul>
+<li>cse 1 </li>
+<li> cse 12</li>
+<li> cse<18 </li>
+</ul>
+
+<audio controls>
+<source src="audio.mpeg">
+</audio>
+
+<video controls height="60"width="60">
+<source src="viedo.MP4">
+</video>
+
+<h1> good morning </h1>
+<p1> good to see u.have a nice day.</p1>
+</body>
+</html>
